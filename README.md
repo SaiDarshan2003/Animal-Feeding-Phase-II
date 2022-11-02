@@ -96,7 +96,7 @@ public class SpawnManager : MonoBehaviour
 ```
 
 ## Output:
-![222](https://user-images.githubusercontent.com/93587823/199157541-46a4de22-0a47-41e7-88c0-23a7ac83865c.png)
+![222](1.png)
 
 
 ## Result:
